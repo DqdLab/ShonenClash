@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
-  "download_url": "https://github.com/DqdLab/ShonenClash/releases/download/v1.4.2/ShonenClash.apk",
-  "notes": "Compatibilité élargie aux appareils 32 bits (Android Go, Redmi A3 et similaires). Pour qui vient d'avant la 1.4.0 : univers Saint Seiya complet, sorts signature, combats simultanés, bot dont la stratégie dépend de son leader et bonus d'époque 5."
+  "version": "1.5.0",
+  "download_url": "https://github.com/DqdLab/ShonenClash/releases/download/v1.5.0/ShonenClash.apk",
+  "notes": "Missions coopératives : jouez à deux contre un ennemi renforcé, une récompense chacun. Les missions peuvent désormais être perdues, les combats sont simultanés même avec initiative, et chaque effet s'affiche sur la bonne carte."
 }
